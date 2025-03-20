@@ -1,0 +1,128 @@
+[
+  {
+    "ID": 1,
+    "Title": "Aakhri Sanghursh",
+    "Director": "Narendra Bedi",
+    "Cast": "Vijayendra Ghatge, Kajal Kiran",
+    "Genre": "Action"
+  },
+  {
+    "ID": 2,
+    "Title": "Ab Dilli Door Nahin",
+    "Director": "Amar Kumar",
+    "Cast": "Yakub, Anwar Hussain",
+    "Genre": "Drama"
+  },
+  {
+    "ID": 3,
+    "Title": "Ab Kya Hoga",
+    "Director": "S.S. Balan",
+    "Cast": "Shatrughan Sinha, Neetu Singh",
+    "Genre": "Thriller"
+  },
+  {
+    "ID": 4,
+    "Title": "Anokha Rishta",
+    "Director": "I.V. Sasi",
+    "Cast": "Rajesh Khanna, Smita Patil",
+    "Genre": "Romance"
+  },
+  {
+    "ID": 5,
+    "Title": "Bandish",
+    "Director": "K. Bapaiah",
+    "Cast": "Rajesh Khanna, Hema Malini",
+    "Genre": "Drama"
+  },
+  {
+    "ID": 6,
+    "Title": "Chhoti Si Baat",
+    "Director": "Basu Chatterjee",
+    "Cast": "Amol Palekar, Vidya Sinha",
+    "Genre": "Romantic Comedy"
+  },
+  {
+    "ID": 7,
+    "Title": "Chor Machaye Shor",
+    "Director": "Ashok Roy",
+    "Cast": "Shashi Kapoor, Mumtaz",
+    "Genre": "Action"
+  },
+  {
+    "ID": 8,
+    "Title": "Dard Ka Rishta",
+    "Director": "Sunil Dutt",
+    "Cast": "Sunil Dutt, Smita Patil",
+    "Genre": "Drama"
+  },
+  {
+    "ID": 9,
+    "Title": "Deewar",
+    "Director": "Yash Chopra",
+    "Cast": "Amitabh Bachchan, Shashi Kapoor",
+    "Genre": "Action"
+  },
+  {
+    "ID": 10,
+    "Title": "Don",
+    "Director": "Chandra Barot",
+    "Cast": "Amitabh Bachchan, Zeenat Aman",
+    "Genre": "Thriller"
+  },
+  {
+    "ID": 11,
+    "Title": "Gol Maal",
+    "Director": "Hrishikesh Mukherjee",
+    "Cast": "Amol Palekar, Bindiya Goswami",
+    "Genre": "Comedy"
+  },
+  {
+    "ID": 12,
+    "Title": "Ghar",
+    "Director": "Manik Chatterjee",
+    "Cast": "Vinod Mehra, Rekha",
+    "Genre": "Romance"
+  },
+  {
+    "ID": 13,
+    "Title": "Guide",
+    "Director": "Vijay Anand",
+    "Cast": "Dev Anand, Waheeda Rehman",
+    "Genre": "Drama"
+  },
+  {
+    "ID": 14,
+    "Title": "Haathi Mere Saathi",
+    "Director": "M.A. Thirumugham",
+    "Cast": "Rajesh Khanna, Tanuja",
+    "Genre": "Family"
+  },
+  {
+    "ID": 15,
+    "Title": "Hum Dono",
+    "Director": "Amarjeet",
+    "Cast": "Dev Anand, Sadhana",
+    "Genre": "Drama"
+  },
+  {
+    "ID": 16,
+    "Title": "Jaane Bhi Do Yaaro",
+    "Director": "Kundan Shah",
+    "Cast": "Naseeruddin Shah, Ravi Baswani",
+    "Genre": "Comedy"
+  },
+  {
+    "ID": 17,
+    "Title": "Kabhi Kabhi",
+    "Director": "Yash Chopra",
+    "Cast": "Amitabh Bachchan, Rakhee",
+    "Genre": "Romance"
+  },
+  {
+    "ID": 18,
+    "Title": "Karz",
+    "Director": "Subhash Ghai",
+    "Cast": "Rishi Kapoor, Tina Munim",
+    "Genre": "Thriller"
+  }
+]
